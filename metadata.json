@@ -1,0 +1,6 @@
+{
+  "name": "Barnaby & Brooks Teddy Atelier",
+  "description": "Handcrafted heirloom teddy bears, custom build-your-bear workshop, official adoption certificates, and artisanal plush accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
